@@ -1,0 +1,186 @@
+(ROOT[is/VBZ]
+  (S[is/VBZ]
+    (NP[Pony/NN] (PRP$[My/PRP$] My) (JJ[Little/JJ] Little) (NN[Pony/NN] Pony))
+    (VP[is/VBZ] (VBZ[is/VBZ] is)
+      (NP[brand/NN]
+        (NP[brand/NN] (DT[a/DT] a) (NN[brand/NN] brand))
+        (PP[of/IN] (IN[of/IN] of)
+          (NP[ponies/NNS]
+            (NP[ponies/NNS] (JJ[plastic/JJ] plastic) (NNS[ponies/NNS] ponies))
+            (VP[produced/VBN] (VBN[produced/VBN] produced)
+              (PP[since/IN] (IN[since/IN] since)
+                (NP[1983/CD] (CD[1983/CD] 1983)))
+              (PP[by/IN] (IN[by/IN] by)
+                (NP[Hasbro/NNP] (DT[the/DT] the) (NN[toy/NN] toy) (NN[manufacturer/NN] manufacturer) (NNP[Hasbro/NNP] Hasbro))))))))
+    (.[./.] .)))
+
+(ROOT[referred/VBD]
+  (S[referred/VBD]
+    (S[Marketed/VBN]
+      (VP[Marketed/VBN] (VBN[Marketed/VBN] Marketed)
+        (ADVP[primarily/RB] (RB[primarily/RB] primarily))
+        (PP[to/TO] (TO[to/TO] to)
+          (NP[girls/NNS] (NNS[girls/NNS] girls)))))
+    (PRN[feature/VBP] (,[,/,] ,)
+      (S[feature/VBP]
+        (NP[ponies/NNS] (DT[the/DT] the) (NNS[ponies/NNS] ponies))
+        (VP[feature/VBP] (VBP[feature/VBP] feature)
+          (NP[bodies/NNS]
+            (NP[bodies/NNS]
+              (NP[bodies/NNS] (JJ[colorful/JJ] colorful) (NNS[bodies/NNS] bodies)
+                (CC[and/CC] and)
+                (NNS[manes/NNS] manes))
+              (CC[and/CC] and)
+              (NP[symbol/NN]
+                (NP[symbol/NN] (DT[a/DT] a) (JJ[unique/JJ] unique) (NN[symbol/NN] symbol))
+                (PP[on/IN] (IN[on/IN] on)
+                  (NP[one/CD] (CD[one/CD] one)))))
+            (CC[or/CC] or)
+            (NP[sides/NNS]
+              (NP[sides/NNS] (DT[both/DT] both) (NNS[sides/NNS] sides))
+              (PP[of/IN] (IN[of/IN] of)
+                (NP[flanks/NNS] (PRP$[their/PRP$] their) (NNS[flanks/NNS] flanks)))))))
+      (,[,/,] ,))
+    (VP[referred/VBD] (VBD[referred/VBD] referred)
+      (PP[to/TO] (TO[to/TO] to))
+      (PP[in/IN] (IN[in/IN] in)
+        (NP[generations/NNS]
+          (NP[generations/NNS] (DT[the/DT] the) (CD[two/CD] two) (JJS[most/JJS] most) (JJ[recent/JJ] recent) (NNS[generations/NNS] generations))
+          (PP[as/IN] (IN[as/IN] as)
+            (NP[marks/NNS] (``[``/``] ``) (JJ[cutie/JJ] cutie) (NNS[marks/NNS] marks) (''[''/''] ''))))))
+    (.[./.] .)))
+
+(ROOT[was/VBD]
+  (S[was/VBD]
+    (PP[Following/VBG] (VBG[Following/VBG] Following)
+      (NP[toy/NN]
+        (NP[toy/NN] (DT[the/DT] the) (JJ[original/JJ] original) (NNP[My/NNP] My) (NNP[Pretty/NNP] Pretty) (NNP[Pony/NNP] Pony) (NN[toy/NN] toy))
+        (,[,/,] ,)
+        (VP[introduced/VBN] (VBN[introduced/VBN] introduced)
+          (PP[in/IN] (IN[in/IN] in)
+            (NP[1981/CD] (CD[1981/CD] 1981))))))
+    (,[,/,] ,)
+    (S[was/VBD]
+      (NP[Pony/NN] (PRP$[My/PRP$] My) (JJ[Little/JJ] Little) (NN[Pony/NN] Pony))
+      (VP[was/VBD] (VBD[was/VBD] was)
+        (VP[launched/VBN] (VBN[launched/VBN] launched)
+          (PP[in/IN] (IN[in/IN] in)
+            (NP[1983/CD] (CD[1983/CD] 1983))))))
+    (CC[and/CC] and)
+    (S[became/VBD]
+      (NP[line/NN] (DT[the/DT] the) (NN[line/NN] line))
+      (VP[became/VBD] (VBD[became/VBD] became)
+        (ADJP[popular/JJ] (JJ[popular/JJ] popular))
+        (PP[during/IN] (IN[during/IN] during)
+          (NP[1980s/NNS] (DT[the/DT] the) (NNS[1980s/NNS] 1980s)))))
+    (.[./.] .)))
+
+(ROOT[ran/VBD]
+  (S[ran/VBD]
+    (NP[line/NN] (DT[The/DT] The) (JJ[original/JJ] original) (NN[toy/NN] toy) (NN[line/NN] line))
+    (VP[ran/VBD]
+      (VP[ran/VBD] (VBD[ran/VBD] ran)
+        (PP[from/IN] (IN[from/IN] from)
+          (NP[1983/CD] (CD[1983/CD] 1983)))
+        (PP[to/TO] (TO[to/TO] to)
+          (NP[1995/CD] (CD[1995/CD] 1995)))
+        (PRN[1992/CD] (-LRB-[-LRB-/-LRB-] -LRB-)
+          (NP[1992/CD]
+            (NP[1992/CD] (CD[1992/CD] 1992))
+            (PP[in/IN] (IN[in/IN] in)
+              (NP[US/NNP] (DT[the/DT] the) (NNP[US/NNP] US))))
+          (-RRB-[-RRB-/-RRB-] -RRB-)))
+      (,[,/,] ,)
+      (CC[and/CC] and)
+      (VP[inspired/VBD] (VBD[inspired/VBD] inspired)
+        (NP[specials/NNS]
+          (NP[specials/NNS] (JJ[animated/JJ] animated) (NNS[specials/NNS] specials))
+          (,[,/,] ,)
+          (NP[film/NN] (DT[an/DT] an) (JJ[animated/JJ] animated) (NN[feature/NN] feature) (NN[length/NN] length) (NN[film/NN] film))
+          (CC[and/CC] and)
+          (NP[series/NN] (CD[three/CD] three) (JJ[animated/JJ] animated) (NN[television/NN] television) (NN[series/NN] series)))))
+    (.[./.] .)))
+
+(ROOT[had/VBD]
+  (S[had/VBD]
+    (NP[line/NN] (DT[The/DT] The) (NN[toy/NN] toy) (NN[line/NN] line))
+    (VP[had/VBD] (VBD[had/VBD] had)
+      (NP[release/NN]
+        (NP[release/NN] (DT[a/DT] a) (JJ[later/JJ] later) (NN[release/NN] release))
+        (PP[in/IN] (IN[in/IN] in)
+          (NP[Japan/NNP] (NNP[Japan/NNP] Japan))))
+      (,[,/,] ,)
+      (PP[by/IN] (IN[by/IN] by)
+        (NP[Takara/NNP]
+          (NP[Takara/NNP] (NNP[Takara/NNP] Takara))
+          (PP[in/IN] (IN[in/IN] in)
+            (NP['80s/NNS]
+              (NP['80s/NNS] (DT[the/DT] the) (NNS['80s/NNS] '80s))
+              (PP[by/IN]
+                (PP[during/IN] (IN[during/IN] during)
+                  (NP[Generation/NNP] (NNP[Generation/NNP] Generation) (CD[1/CD] 1)))
+                (,[,/,] ,)
+                (CC[and/CC] and)
+                (PP[by/IN] (IN[by/IN] by)
+                  (NP[Tomy/NNP]
+                    (NP[Tomy/NNP] (NNP[Takara/NNP] Takara) (NNP[Tomy/NNP] Tomy))
+                    (PP[in/IN] (IN[in/IN] in)
+                      (NP[2006/CD] (CD[2006/CD] 2006)))))))))))
+    (.[./.] .)))
+
+(ROOT[was/VBD]
+  (S[was/VBD] (``[``/``] ``)
+    (NP[Pony/NN] (PRP$[My/PRP$] My) (JJ[Little/JJ] Little) (NN[Pony/NN] Pony))
+    (''[''/''] '')
+    (VP[was/VBD] (VBD[was/VBD] was)
+      (VP[created/VBN] (VBN[created/VBN] created)
+        (PP[in/IN] (IN[in/IN] in)
+          (NP[1982/CD] (CD[1982/CD] 1982)))
+        (PP[by/IN] (IN[by/IN] by)
+          (NP[illustrator/NN] (JJ[American/JJ] American) (NN[illustrator/NN] illustrator)
+            (CC[and/CC] and)
+            (NN[designer/NN] designer)))))
+    (NP[Zacherle/NNP] (NNP[Bonnie/NNP] Bonnie) (NNP[Zacherle/NNP] Zacherle))
+    (.[./.] .)))
+
+(ROOT[submitted/VBD]
+  (S[submitted/VBD]
+    (S[Working/VBG]
+      (VP[Working/VBG] (VBG[Working/VBG] Working)
+        (PP[with/IN] (IN[with/IN] with)
+          (NP[Muenchinger/NNP]
+            (NP[Muenchinger/NNP] (NN[sculptor/NN] sculptor) (NNP[Charles/NNP] Charles) (NNP[Muenchinger/NNP] Muenchinger))
+            (CC[and/CC] and)
+            (NP[D'Aguanno/NNP] (NN[manger/NN] manger) (NNP[Steve/NNP] Steve) (NNP[D'Aguanno/NNP] D'Aguanno))))))
+    (,[,/,] ,)
+    (NP[Zacherle/NNP] (NNP[Zacherle/NNP] Zacherle))
+    (VP[submitted/VBD] (VBD[submitted/VBD] submitted)
+      (NP[patent/NN] (DT[a/DT] a) (NN[design/NN] design) (NN[patent/NN] patent))
+      (PP[in/IN] (IN[in/IN] in)
+        (NP[August/NNP] (NNP[August/NNP] August) (CD[1981/CD] 1981)))
+      (PP[for/IN] (IN[for/IN] for)
+        (NP[design/NN]
+          (NP[design/NN] (DT[an/DT] an) (JJ[ornamental/JJ] ornamental) (NN[design/NN] design))
+          (PP[for/IN] (IN[for/IN] for)
+            (NP[animal/NN] (DT[a/DT] a) (NN[toy/NN] toy) (NN[animal/NN] animal))))))
+    (.[./.] .)))
+
+(ROOT[was/VBD]
+  (S[was/VBD]
+    (NP[patent/NN] (DT[The/DT] The) (NN[patent/NN] patent))
+    (VP[was/VBD] (VBD[was/VBD] was)
+      (VP[granted/VBN] (VBN[granted/VBN] granted)
+        (PP[in/IN] (IN[in/IN] in)
+          (NP[August/NNP] (NNP[August/NNP] August) (CD[1983/CD] 1983)))
+        (,[,/,] ,)
+        (SBAR[when/WRB]
+          (WHADVP[when/WRB] (WRB[when/WRB] when))
+          (S[began/VBD]
+            (NP[she/PRP] (PRP[she/PRP] she))
+            (VP[began/VBD] (VBD[began/VBD] began)
+              (S[working/VBG]
+                (VP[working/VBG] (VBG[working/VBG] working)
+                  (PP[for/IN] (IN[for/IN] for)
+                    (NP[Hasbro/NNP] (NNP[Hasbro/NNP] Hasbro))))))))))
+    (.[./.] .)))
+

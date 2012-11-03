@@ -1,0 +1,59 @@
+
+Steps to Use:
+
+  1) Download the Stanford parser (tested with 2.0.3)
+     http://nlp.stanford.edu/software/lex-parser.shtml
+
+  2) Install Ruby 'treetop' gem (use 'sudo gem' if necessary)
+
+      $ gem install treetop
+
+  3) Copy lexicalize.sh to the Stanford parser directory.
+     It works like lexparser.sh, but includes headwords.
+
+  4) Run the parser output through nlextract.rb.
+
+     a) From the Stanford parser directory, invoke lexicalize.sh,
+        storing the parse trees in a temporary file:
+
+        ./lexicalize.sh ~/path/to/sentences.txt > ~/path/to/sentences.trees
+
+     b) From the nlextract directory, pipe the trees into nlextract.rb:
+
+        ruby nlextract.rb < ~/path/to/sentences.trees
+
+
+Pony Example:
+
+  cd ~/path/to/stanford-parser/
+  ./lexicalize.sh ~/src/nlextract/examples/ponies.txt > ~/src/nlextract/examples/ponies.trees
+  cd ~/src/nlextract/
+  ruby nlextract.rb < examples/ponies.trees
+
+  Output:
+
+    sentence: Pony is brand
+    phrase: Little Pony
+    phrase: My Pony
+    phrase: brand
+    phrase: ponies
+    phrase: plastic ponies
+    phrase: 1983
+    phrase: Hasbro
+
+    sentence: ponies feature bodies
+    phrase: girls
+    phrase: ponies
+    phrase: bodies
+    phrase: colorful bodies
+    phrase: symbol
+    phrase: unique symbol
+    phrase: one
+    phrase: sides
+    phrase: their flanks
+    phrase: generations
+    phrase: recent generations
+    phrase: cutie marks
+    ...
+    ...
+    ...

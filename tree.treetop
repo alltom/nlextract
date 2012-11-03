@@ -1,0 +1,23 @@
+grammar SentenceTree
+  rule p
+    '(' tag:word '[' word '/' word ']' whitespace+ wordd:word ')' whitespace* {
+      def node
+        Leaf.new tag.text_value, wordd.text_value
+      end
+    }
+    /
+    '(' tag:word '[' headword:word '/' headwordtag:word ']' whitespace+ children:p+ ')' whitespace* {
+      def node
+        Node.new tag.text_value, headword.text_value, headwordtag.text_value, children.elements.map { |x| x.node }
+      end
+    }
+  end
+
+  rule word
+    [^ \n\(\)\[\]/]+
+  end
+
+  rule whitespace
+    [ \n]
+  end
+end
